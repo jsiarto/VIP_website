@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /faculty/
 title: Faculty
-description: Materials for courses you taught. Replace this text with your description.
+description: Information about the faculty
 nav: true
 nav_order: 6
 ---
