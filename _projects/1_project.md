@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: SEE Insight Lab
+title: SEE Insight Lab
+description: By Dirk Colbry
 img: assets/img/see_insight.jpg
 importance: 1
 #category: work
