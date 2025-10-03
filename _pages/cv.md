@@ -1,5 +1,5 @@
 ---
-layout: syllabus
+layout: default
 permalink: /syllabus/
 title: syllabus
 nav: true
