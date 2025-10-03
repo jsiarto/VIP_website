@@ -23,3 +23,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+// MSU Green override for nav links in light (day) mode
+[data-theme="light"] {
+  .navbar-nav .nav-link.active,
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link:focus {
+    color: #18453B !important; // MSU Green
+  }
+
+  .navbar-nav .nav-link.active::after {
+    background-color: #18453B !important;
+  }
+}

@@ -48,8 +48,5 @@ This is an unconventional course where students gain hands-on experience in coll
 
 Students interested in VIP are encouraged to look at the faculty and the syllabus to see if they are interested.
 
-# How to Apply
-- Ask Dirk
-
 
 
