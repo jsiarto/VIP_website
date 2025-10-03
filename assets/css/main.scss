@@ -24,9 +24,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-body {
-  background: red !important;
-}
 
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
@@ -35,8 +32,9 @@ body {
   color: #18453B !important;  /* MSU Green */
 }
 /* Override Bootstrap primary and purple with MSU green */
+
 :root {
-  --bs-primary: #18453B !important;
-  --purple: #18453B !important;   /* just in case */
+  --global-theme-color: #18453B !important; /* MSU Green */
 }
+
 
