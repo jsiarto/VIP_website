@@ -1,9 +1,9 @@
 ---
 layout: page
 title: How to Apply
-permalink: /apply/
+permalink: /books/
 nav: false
-collection: 
+collection: books
 ---
 
 # How to Apply to MSU VIP

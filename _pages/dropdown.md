@@ -10,4 +10,6 @@ children:
   - title: divider
   - title: peer evaluation
     permalink: /peer_evaluation/
+  - title: divider
+    permalink: /books/
 ---
