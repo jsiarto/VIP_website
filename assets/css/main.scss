@@ -1,8 +1,7 @@
 ---
-// Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-$primary: #18453B;
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
@@ -22,9 +21,9 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular",
   "tabler-icons/tabler-icons.scss",
   "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss",
-  
+  "tabler-icons/tabler-icons-outline.scss"
 ;
+---
 
 
 /* Override Bootstrap primary and purple with MSU green */
