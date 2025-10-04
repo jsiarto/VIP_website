@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Labs
+permalink: /labs/
+description: Labs offering VIP courses.
 nav: true
 nav_order: 3
 #display_categories: [work, fun]

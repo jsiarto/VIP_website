@@ -8,8 +8,8 @@ children:
   - title: syllabus
     permalink: /syllabus/
   - title: divider
-  - title: peer evaluation
-    permalink: /peer_evaluation/
-  - title: divider
-    permalink: /books/
+  - title: How to Apply
+    permalink: /apply/
+  # - title: divider
+  #   permalink: /books/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: Duk Lab
+title: Duk Lab
+description: by
 img: assets/img/4.jpg
 importance: 1
 #category: work
