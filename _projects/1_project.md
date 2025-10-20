@@ -9,9 +9,6 @@ importance: 1
 author: "Dirk Colbry"
 ---
 
-<div style="border-left: 6px solid #18453B; padding-left: 1rem;">
-{{ content | markdownify }}
-</div>
 
 # Team Name  
 
