@@ -38,32 +38,7 @@ body.sticky-bottom-footer {
   }
 }
 
-@media (color-scheme: light) {
-  body {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: #18453B; /* MSU Green */
-    }
-  }
-}
 
-/* Default or dark mode headings */
-@media (color-scheme: dark) {
-  body {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-heading-color, #ffffff); /* or leave as white */
-    }
-  }
-}
 
 // TODO: redefine content layout.
 
