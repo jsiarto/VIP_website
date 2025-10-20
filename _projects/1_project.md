@@ -5,11 +5,11 @@ permalink: /team-name/
 description: "Team description"
 img: assets/img/see_insight.jpg
 importance: 1
-related_publications: true
+
 author: "Dirk Colbry"
 ---
 
-<div class="team-description" style="border-left: 6px solid #18453B; padding-left: 1rem;">
+<div style="border-left: 6px solid #18453B; padding-left: 1rem;">
 {{ content | markdownify }}
 </div>
 
@@ -18,7 +18,7 @@ author: "Dirk Colbry"
 ---
 
 ## Timeline & Partners  
-**Year(s):** YYYY – Present  
+**Year(s):** YYYY – Present   
 **Partners / Sponsors:** [List organizations or supporters]
 
 ---
