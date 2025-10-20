@@ -76,6 +76,7 @@
   }
   h1, h2, h3, h4, h5, h6 {
     color: #18453B;
+  }
 }
 
 html[data-theme="dark"] {
@@ -146,6 +147,7 @@ html[data-theme-setting="dark"] {
   }
   h1, h2, h3, h4, h5, h6 {
     color: var(--global-text-color);
+  }
 }
 
 html[data-theme-setting="light"] {
