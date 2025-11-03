@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duk Lab
-description: by Jeff Siarto
+description: "Led by Jeff Siarto"
 importance: 1
 img: assets/img/duk.png
 related_publications: true
